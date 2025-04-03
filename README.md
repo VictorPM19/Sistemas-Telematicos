@@ -1,5 +1,5 @@
-# 📚 Proyectos de Clase  
-Este repositorio contiene una recopilación de proyectos desarrollados a lo largo de diversos temas. Cada sección corresponde a un tema específico con sus respectivos proyectos y recursos.  
+# 📚 Introducción  
+Este repositorio contiene una recopilación de temas y proyectos desarrollados a lo largo del aprendizaje. Cada sección abarca un área específica de estudio, proporcionando ejemplos prácticos, documentación y recursos útiles para su comprensión y aplicación.  
 
 ## 📌 Índice  
 
@@ -17,4 +17,3 @@ Este repositorio contiene una recopilación de proyectos desarrollados a lo larg
 
 ### 🔎 GitHub  
 **Gestión de repositorios:** Uso de Git y GitHub para control de versiones, creación de portafolio de trabajo, colaboración y despliegue de proyectos.  
-
