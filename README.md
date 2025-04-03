@@ -1,3 +1,12 @@
+# 💻Ingenieria en Redes y Telecomunicaciones
+
+# 📡Sistemas telematicos
+
+### Creado por: Victor Manuel Perez Moarales 
+
+### Docente: Luis Rey Lara Gonzalez
+
+
 # 🔭 Introducción  
 Este repositorio reúne diversos temas y proyectos desarrollados a lo largo del aprendizaje. Cada sección cubre un área específica de estudio, proporcionando ejemplos prácticos, documentación y recursos clave para su comprensión y aplicación.  
 
