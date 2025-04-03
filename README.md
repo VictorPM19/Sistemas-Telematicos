@@ -1,6 +1,8 @@
 # 🔭 Introducción  
 Este repositorio reúne diversos temas y proyectos desarrollados a lo largo del aprendizaje. Cada sección cubre un área específica de estudio, proporcionando ejemplos prácticos, documentación y recursos clave para su comprensión y aplicación.  
 
+ ![St](Principal/ST.png)
+
 ## 📌 Índice  
 
 ### 🌐 Oracle Cloud  
