@@ -4,7 +4,8 @@ Este repositorio reúne diversos temas y proyectos desarrollados a lo largo del 
 ## 📌 Índice  
 
 ### 🌐 Oracle Cloud  
-**[Repositorio de Proyectos OC(https://github.com/VictorPM19/Oracle-Cloud.git):** Configuración y gestión de servicios en la nube, además del despliegue de bases de datos.
+**[Repositorio de Proyectos OC](https://github.com/VictorPM19/Oracle-Cloud.git)
+:** Configuración y gestión de servicios en la nube, además del despliegue de bases de datos.
 
 ### 🗄️ Bases de Datos  
 **Desarrollo con Bases de Datos:** Creación y ejecución de consultas en MySQL mediante acceso por SSH.  
