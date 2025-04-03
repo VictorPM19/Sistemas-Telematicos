@@ -8,7 +8,7 @@ Este repositorio reúne diversos temas y proyectos desarrollados a lo largo del 
 :** Configuración y gestión de servicios en la nube, además del despliegue de bases de datos.
 
 ### 🗄️ Bases de Datos  
-**Desarrollo con Bases de Datos:** Creación y ejecución de consultas en MySQL mediante acceso por SSH.  
+**[Actividades BD](https://github.com/VictorPM19/Actividades-BD.git):** Creación y ejecución de consultas en MySQL mediante acceso por SSH.  
 
 ### 📟 Actividades con ESP32  
 **Proyectos con ESP32:** Desarrollo de sistemas embebidos, comunicación inalámbrica y conexión a redes WiFi.  
