@@ -16,5 +16,5 @@ Este repositorio reúne diversos temas y proyectos desarrollados a lo largo del 
 **[Actividades esp32](https://github.com/VictorPM19/Actividades-esp32.git):** Desarrollo de sistemas embebidos, comunicación inalámbrica y conexión a redes WiFi.
 
 ### 💻 Actividades de PHP  
-**Desarrollo con PHP:** Creación de aplicaciones web, integración con bases de datos y administración de servidores.  
+**[DCodigos PHP y base de datos](https://github.com/VictorPM19/PHP-y-base-de-datos-code.git):** Creación de aplicaciones web, integración con bases de datos y administración de servidores.  
 
