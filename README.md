@@ -16,6 +16,3 @@ Este repositorio reúne diversos temas y proyectos desarrollados a lo largo del 
 ### 💻 Actividades de PHP  
 **Desarrollo con PHP:** Creación de aplicaciones web, integración con bases de datos y administración de servidores.  
 
-### 🔎 GitHub  
-**Control de versiones con GitHub:** Gestión de repositorios, desarrollo colaborativo, creación de portafolios y despliegue de proyectos.  
-  
