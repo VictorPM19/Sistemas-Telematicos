@@ -7,14 +7,14 @@ Este repositorio reúne diversos temas y proyectos desarrollados a lo largo del 
 
 ### 🌐 Oracle Cloud  
 **[Repositorio de Proyectos OC](https://github.com/VictorPM19/Oracle-Cloud.git)
-:** Configuración y gestión de servicios en la nube, además del despliegue de bases de datos.
+:** Creacion de cuenta oracle cloud e instancia para una VPS.
 
 ### 🗄️ Bases de Datos  
-**[Actividades BD](https://github.com/VictorPM19/Actividades-BD.git):** Creación y ejecución de consultas en MySQL mediante acceso por SSH.  
+**[Actividades BD](https://github.com/VictorPM19/Actividades-BD.git):** Guia para adquirir un dominio, configurarlo y enlazarlo hestia,base de datos y pagina con el dominio.  
 
 ### 📟 Actividades con ESP32  
-**[Actividades esp32](https://github.com/VictorPM19/Actividades-esp32.git):** Desarrollo de sistemas embebidos, comunicación inalámbrica y conexión a redes WiFi.
+**[Actividades esp32](https://github.com/VictorPM19/Actividades-esp32.git):** Codigos para actividades de esp32.
 
 ### 💻 Actividades de PHP  
-**[DCodigos PHP y base de datos](https://github.com/VictorPM19/PHP-y-base-de-datos-code.git):** Creación de aplicaciones web, integración con bases de datos y administración de servidores.  
+**[DCodigos PHP y base de datos](https://github.com/VictorPM19/PHP-y-base-de-datos-code.git):** Codigos de actividades de php con base de datos.  
 
