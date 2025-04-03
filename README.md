@@ -1,4 +1,4 @@
-# 📚 Introducción  
+# 🔭 Introducción  
 Este repositorio reúne diversos temas y proyectos desarrollados a lo largo del aprendizaje. Cada sección cubre un área específica de estudio, proporcionando ejemplos prácticos, documentación y recursos clave para su comprensión y aplicación.  
 
 ## 📌 Índice  
@@ -9,10 +9,10 @@ Este repositorio reúne diversos temas y proyectos desarrollados a lo largo del 
 ### 🗄️ Bases de Datos  
 **Desarrollo con Bases de Datos:** Creación y ejecución de consultas en MySQL mediante acceso por SSH.  
 
-### 🔌 Actividades con ESP32  
+### 📟 Actividades con ESP32  
 **Proyectos con ESP32:** Desarrollo de sistemas embebidos, comunicación inalámbrica y conexión a redes WiFi.  
 
-### 📉 Actividades de PHP  
+### 💻 Actividades de PHP  
 **Desarrollo con PHP:** Creación de aplicaciones web, integración con bases de datos y administración de servidores.  
 
 ### 🔎 GitHub  
