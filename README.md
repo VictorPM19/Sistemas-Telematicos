@@ -11,7 +11,7 @@ Este repositorio reúne diversos temas y proyectos desarrollados a lo largo del 
 **[Actividades BD](https://github.com/VictorPM19/Actividades-BD.git):** Creación y ejecución de consultas en MySQL mediante acceso por SSH.  
 
 ### 📟 Actividades con ESP32  
-**Proyectos con ESP32:** Desarrollo de sistemas embebidos, comunicación inalámbrica y conexión a redes WiFi.  
+**[Actividades esp32](https://github.com/VictorPM19/Actividades-esp32.git):** Desarrollo de sistemas embebidos, comunicación inalámbrica y conexión a redes WiFi.
 
 ### 💻 Actividades de PHP  
 **Desarrollo con PHP:** Creación de aplicaciones web, integración con bases de datos y administración de servidores.  
